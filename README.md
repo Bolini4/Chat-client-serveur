@@ -93,6 +93,8 @@ Note : à partir de ce jalon, uniquement les points requis étaient listés (san
 
 L'objectif de ce jalon est de permettre à un utilisateur d'envoyer un fichier à un autre utilisateur. Plusieurs schémas sont possibles pour implémenter cette fonctionnalité. Nous retiendrons le mode P2P (Peer to Peer) ne nécessitant pas de passer le serveur pour échanger des données. Le serveur n'est utilisé que pour mettre en relation les utilisateurs.
 
+Le photo laura.jpg peut être utilisé comme exemple pour l'envoie de fichier.
+
 1. : Un utilisateur (*l'émetteur*) DOIT pouvoir envoyer un fichier à un autre utilisateur (**le récepteur**)
 
 2. : Lors du transfert d'un fichier, le récepteur DOIT donner son approbation
