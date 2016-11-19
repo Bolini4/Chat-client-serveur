@@ -5,6 +5,11 @@ Le projet a pour objectif la réalisation d'une application de chat client/serve
 * d'échanger des messages entre 2 utilisateurs, entre plusieurs utilisateurs, ou à destination de la totalité des utilisateurs connectés sur le réseau;
 * de s'envoyer des fichiers.
 
+# Installation
+
+Exécutez le script create-project-files.sh. Un dossier build se créer, l'exécutable du serveur et du client se trouvent ici. ./build/jalon05/RE216_JALON05_CLIENT et ./build/jalon05/RE216_JALON05_CLIENT. Exécutez d'abord le serveur avec son numéro de port d'écoute, par exemple 8000. Puis éxécutez les client avec comme argument 127.0.0.1 8000.
+
+
 # Liste des points requis par le projet
 
 ## Jalon 01 : Etablissement d'un modèle client/serveur "Echo" sur TCP
