@@ -210,6 +210,7 @@ int main(int argc, char** argv)
 
                         }
 
+                        
                         // /quit
                         else{
                             quit_salon(tab_salon, tab_user+i-4, get_user_salon(tab_user+i-4));
